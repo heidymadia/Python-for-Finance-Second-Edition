@@ -1,3 +1,4 @@
+Fork from Packt Publishing for learning purpose
 # Python for Finance – Second Edition
 This is the code repository for [Python for Finance – Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-finance-second-edition?utm_source=github&utm_medium=repository&utm_content=9781787125698), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
